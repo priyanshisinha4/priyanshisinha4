@@ -10,6 +10,13 @@
 </div>
 
 ---
+## Profile views:
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=priyanshisinha4&abbreviated=true)
+
+</div>
+
 
 ## 👩‍💻 About Me
 
